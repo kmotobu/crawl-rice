@@ -7,6 +7,7 @@ authors = [
 ]
 dependencies = [
     "pandas>=2.0",
+    "requests>=2.31",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
