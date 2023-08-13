@@ -21,3 +21,6 @@ dev-dependencies = []
 
 [tool.hatch.metadata]
 allow-direct-references = true
+
+[tool.rye.scripts]
+app = "python ./src/main.py"
